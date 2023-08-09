@@ -5,8 +5,13 @@ body{
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
+    gap: 40px;
 }
+
+.rounded-image{
+    border-radius: 10px;
+}
+
 h1{
     color: #cfcfcf;
 }
