@@ -6,6 +6,17 @@ img{
     width: 100%;
 }
 
+.intro{
+    background-image: linear-gradient(to bottom right, #2C2C2C, #000000);
+}
+
+.header{
+    padding: 50px;
+    text-align: center;
+    background: #111111;
+    font-size: 25px;
+}
+
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
