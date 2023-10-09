@@ -23,6 +23,11 @@ img{
     gap: 40px;
     margin: 40px;
 }
+.bottom_image{
+    margin: 40px;
+    width: 30.5%;
+    padding-left: 615px;
+}
 
 .rounded-image{
     border-radius: 10px;
@@ -42,4 +47,8 @@ h2{
 
 h2{
     text-align:center
+}
+
+p{
+    color: #cfcfcf;
 }
