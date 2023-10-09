@@ -1,13 +1,11 @@
 body{
     background-color: #2C2C2C;
+    background-image: linear-gradient(to bottom right, #2C2C2C, #000000);
+    border-radius: 20px;
 }
 
 img{
     width: 100%;
-}
-
-.intro{
-    background-image: linear-gradient(to bottom right, #2C2C2C, #000000);
 }
 
 .header{
@@ -15,6 +13,7 @@ img{
     text-align: center;
     background: #111111;
     font-size: 25px;
+    border-radius: 20px;
 }
 
 .container{
@@ -30,13 +29,7 @@ img{
 }
 
 .container img:hover{
-    opacity: 0.5;
-}
-
-.bottom_image{
-    margin: 40px;
-    width: 30.5%;
-    padding-left: 615px;
+    opacity: 0.7;
 }
 
 .rounded-image{
