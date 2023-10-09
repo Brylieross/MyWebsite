@@ -23,6 +23,16 @@ img{
     gap: 40px;
     margin: 40px;
 }
+
+.container img{
+    opacity: 1.0;
+    transition: all 1s;
+}
+
+.container img:hover{
+    opacity: 0.5;
+}
+
 .bottom_image{
     margin: 40px;
     width: 30.5%;
